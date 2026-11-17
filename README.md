@@ -2,7 +2,7 @@
 
 # Hi, I'm Suraj Rai 👋
 
-### Technology Leader · Software Developer · Mentor
+### Technical Delivery Leader · Full-Stack & Applied AI Projects · Mentor
 
 Building practical applications, guiding engineering teams,
 and sharing software design through RaiGenics.
